@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+<url> 
+ <loc>http://irateeshaservices.co.in/</loc>
+ <lastmod>2016-02-07</lastmod>
+ <changefreq>monthly</changefreq> 
+ <image:image>
+  <image:loc>http://irateeshaservices.co.in/images/logo.png</image:loc>
+  <image:caption>IT Services Logo</image:caption>
+ </image:image> 
+ <image:image>
+  <image:loc>http://irateeshaservices.co.in/images/header_1600x900.png</image:loc>
+  <image:caption>IT Services Header</image:caption>
+ </image:image>
+ <image:image>
+  <image:loc>http://irateeshaservices.co.in/images/cta/cta2-img.png</image:loc>
+  <image:caption>contact-us</image:caption>
+ </image:image>
+ <image:image>
+  <image:loc>http://irateeshaservices.co.in/images/services/koha.jpg</image:loc>
+  <image:caption>Koha Introduction</image:caption> 
+ </image:image>
+ <image:image>
+  <image:loc>http://irateeshaservices.co.in/images/services/opennms.jpg</image:loc>
+  <image:caption>OpenNMS Introduction</image:caption>
+ </image:image>
+ <image:image>
+  <image:loc>http://irateeshaservices.co.in/images/services/moodle.jpg</image:loc>
+  <image:caption>Moodle Introduction</image:caption>
+ </image:image>
+ <image:image>
+  <image:loc>http://irateeshaservices.co.in/images/services/otherservices.png</image:loc>
+  <image:caption>Other Services Introduction</image:caption> 
+ </image:image>
+ <image:image>
+  <image:loc>http://irateeshaservices.co.in/images/services/koha_project.png</image:loc>
+  <image:caption>koha-project</image:caption>
+ </image:image>
+ <image:image>
+  <image:loc>http://irateeshaservices.co.in/images/services/opennms_project.png</image:loc>
+  <image:caption>openNMS-project</image:caption>
+ </image:image>
+ <image:image>
+  <image:loc>http://irateeshaservices.co.in/images/services/moodle_project.png</image:loc>
+  <image:caption>moodle-project</image:caption> 
+ </image:image>
+ <image:image>
+  <image:loc>http://irateeshaservices.co.in/images/services/koha.png</image:loc>
+  <image:caption>KOHA - Online Library Homepage</image:caption> 
+ </image:image>
+ <image:image>
+  <image:loc>http://irateeshaservices.co.in/images/services/opennms.png</image:loc>
+  <image:caption>OpenNMS - Online IT Assets and Network Manager Homepage</image:caption> 
+ </image:image>
+ <image:image>
+  <image:loc>http://irateeshaservices.co.in/images/services/moodle.png</image:loc>
+  <image:caption>Moodle - E-Learning and Course Manager Homepage</image:caption> 
+ </image:image>
+
+ 
+</url>
+</urlset>
