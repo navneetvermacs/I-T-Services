@@ -968,6 +968,11 @@ ul.nostyle i {
 #footer ul > li {
   display: inline-block;
   margin: 0 7.5px;
+  padding: 10px 0px;
+}
+#footer ul > li a{
+  border-radius: 10px;
+  padding: 10px 15px;
 }
 #footer h5{
  color: #fff;
@@ -1027,5 +1032,14 @@ padding-left: 15px;
 
    h1{font-size: 1.5em;}
    body { font-size: 1.25em; }
+   #main-slider .slider-inner h1{
+    margin-top: 60px;
+   }
+   .mobile-view{
+    line-height: 18px;
+   }
+   #main-slider .slider-inner{
+    left: 0px;
+   }
 
 }
