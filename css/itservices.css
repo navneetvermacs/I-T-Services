@@ -1048,5 +1048,11 @@ padding-left: 15px;
    .homepage{
     padding-top: 75px;
    }
+   #contact{
+    display: none;  
+   }
+   section{
+    padding-bottom: 50px !important;
+   }
 
 }
