@@ -164,7 +164,6 @@ ul.nostyle i {
 }
 
 .navbar-nav{
-	float: right;
 	margin: 0px 0px;
 }
 .navbar.navbar-default {
@@ -988,6 +987,11 @@ ul.nostyle i {
     float: right;
   }
 }
+@media only screen and (max-width: 768px) {
+  .homepage{
+    padding-top: 75px;
+  }
+}
 .form-control {
   box-shadow: none;
   -webkit-box-shadow: none;
@@ -1040,6 +1044,9 @@ padding-left: 15px;
    }
    #main-slider .slider-inner{
     left: 0px;
+   }
+   .homepage{
+    padding-top: 75px;
    }
 
 }
