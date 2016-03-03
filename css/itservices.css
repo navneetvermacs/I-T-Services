@@ -582,7 +582,7 @@ ul.nostyle i {
 #work-process h3 {
   color: #fff;
   margin-bottom: 0;
-  font-size: 0.645em;
+  font-size: 1.25em;
 }
 #work-process .icon-circle {
   display: inline-block;
@@ -1035,6 +1035,7 @@ padding-left: 15px;
 @media only screen and (max-width: 320px) {
 
    h1{font-size: 1.5em;}
+   h3{font-size: 0.645em;}
    body { font-size: 1.25em; }
    #main-slider .slider-inner h1{
     margin-top: 60px;
