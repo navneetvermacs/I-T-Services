@@ -1051,5 +1051,12 @@ padding-left: 15px;
    section{
     padding-bottom: 50px !important;
    }
+   #contact .contactForm{
+    margin-top: 600px;
+    height: 200px;
+   }
+   #google-map{
+    height: 300px;
+   }
 
 }
