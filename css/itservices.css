@@ -951,8 +951,7 @@ ul.nostyle i {
   padding-bottom: 30px;
   color: #fff;
   background: #2e2e2e;
-  font-weight: 400;
-}
+ }
 #footer a {
   color: #fff;
 }
@@ -978,11 +977,13 @@ ul.nostyle i {
  color: #fff;
  font-size: 0.95em;
  text-align: center;
+ font-weight: 400;
 }
 #footer h6{
  color: #fff;
  font-size: 0.85em;
  text-align: center;
+ font-weight: 400;
 }
 
 .navbar-footer {
