@@ -979,9 +979,18 @@ ul.nostyle i {
 }
 #footer h6{
  color: #fff;
- font-size: 0.75em;
+ font-size: 0.85em;
+ text-align: center;
 }
-
+#footer h5{
+ color: #fff;
+ font-size: 0.75em;
+ text-align: center;
+}
+.navbar-footer {
+    font-size: 1.6em;
+    text-align: center;
+}
 @media only screen and (min-width: 768px) {
   #footer .social-icons {
     float: right;
@@ -991,6 +1000,9 @@ ul.nostyle i {
   .homepage{
     padding-top: 75px;
   }
+}
+.list-inline{
+ font-size: 0.75em;	
 }
 .form-control {
   box-shadow: none;
